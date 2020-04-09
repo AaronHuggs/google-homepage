@@ -87,6 +87,10 @@ body {
     border-width: 1px;
 }
 
+#search-bar:hover {
+    box-shadow: 0 0 5px rgba(83, 83, 83, 0.2);
+}
+
 #search-bar input {
     height: 33px;
     width: 100%;
