@@ -57,3 +57,12 @@ li {
 body {
     font-family: arial, sans-serif;
 }
+
+#google-logo {
+    display: block;
+    margin-top: 80px;
+}
+#google-logo img {
+    display: block;
+    margin: 0 auto 0 auto;
+}
