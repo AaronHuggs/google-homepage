@@ -1,0 +1,59 @@
+#nav-bar {
+    display: block;
+    direction: ltr;
+    min-height: 65px;
+    padding-top: 15px;
+    margin: 0;
+    border: none;
+    width: 100%;
+    font-size: 13px;
+}
+
+#apps-icon {
+    opacity: .75;
+    vertical-align: middle;
+}
+
+#sign-in-button {
+    border: 1px solid #0855da;
+    box-shadow: 0px 1px  #70a3fa;
+    padding: 6px 12px 6px 12px;
+    margin-left: 20px;
+    border-radius: 2px;
+    background-color: #0855da;
+    color: white;
+    font-weight: bold;
+    background-origin: padding-box;
+}
+
+.about-store {
+    display: block;
+    position: absolute;
+}
+
+.gmail-images {
+    min-width: 165px;
+    position: relative;
+    float: right;
+    padding-left: 30px;
+    padding-right: 20px;
+    align-items: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+
+li {
+    display: inline-block;
+    padding-left: 15px;
+    color: black;
+    opacity: 0.75;
+}
+
+body {
+    font-family: arial, sans-serif;
+}
