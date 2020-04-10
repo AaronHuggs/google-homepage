@@ -1,3 +1,4 @@
+
 #nav-bar {
     display: block;
     direction: ltr;
@@ -19,6 +20,7 @@
     box-shadow: 0px 1px  #70a3fa;
     padding: 6px 12px 6px 12px;
     margin-left: 20px;
+    margin-right: 20px;
     border-radius: 2px;
     background-color: #0855da;
     color: white !important;
@@ -56,6 +58,13 @@
 
 body {
     font-family: arial, sans-serif;
+}
+body a {
+    text-decoration: none;
+    color: inherit;
+}
+body a:hover {
+    text-decoration: underline;
 }
 
 #google-logo {
